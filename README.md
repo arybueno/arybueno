@@ -3,7 +3,7 @@
 <h3 align="center">🧑‍💻 Just a student in the Jovem Talento Tech program, learning one line of code at a time.</h3>
 
 <p align="center">
-  🎓 Computer Science student at <strong>IFMS</strong> <br/>
+  🎓 Informatic student at <strong>IFMS</strong> <br/>
   💡 Passionate about technology, art, and science <br/>
   🌍 A dreamer with feet in the code and head in the stars <br/>
 </p>
